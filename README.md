@@ -22,7 +22,7 @@
   
 - 2+ years of non-commercial expirience in programming.
 
-[![listening to](https://spotify-github-profile.vercel.app/api/view?uid=31ocpuodd4dwjdx4losfn34fyre4&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://github.com/bqaOnTop)
+
 
 
 </p>
@@ -61,5 +61,7 @@
     
   </p>
 </div>
+
+[![listening to](https://spotify-github-profile.vercel.app/api/view?uid=31ocpuodd4dwjdx4losfn34fyre4&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://github.com/bqaOnTop)
   
 <br />
