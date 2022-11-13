@@ -1,5 +1,5 @@
 [](https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png)
-<h1 align="center">Hi, I'm Łukasz <img height="40" src="https://emoji.gg/assets/emoji/4809-minecraft-cookie.png"></h1>
+<h1 align="center">Hi, I'm Łukasz</h1>
 <p align="center">
   <a href="https://github.com/bqaOnTop" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="Bqa#4521" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/discord-%234B275F.svg?&style=for-the-badge&logo=discord&logoColor=white" /></a>
@@ -22,7 +22,7 @@
   
 - 2+ years of non-commercial expirience in programming.
 
-
+[![listening to](https://spotify-github-profile.vercel.app/api/view?uid=31ocpuodd4dwjdx4losfn34fyre4&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://github.com/bqaOnTop)
 
 
 </p>
