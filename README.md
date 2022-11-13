@@ -63,5 +63,5 @@
 </div>
 
 [![listening to](https://spotify-github-profile.vercel.app/api/view?uid=31ocpuodd4dwjdx4losfn34fyre4&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://github.com/bqaOnTop)
-  
+  <a  href="https://github.com/bqaOnTop?tab=repositories"><img align="center" style="position:relative; left:10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bqaOnTop&layout=compact&title_color=2ecc71&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"></a>
 <br />
